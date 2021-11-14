@@ -5,7 +5,7 @@
     Motor Driver L9110
     Alimentacion:   5V
 
-    Modulo:   ArduinoTrainerv2.0-Abril2019.ino
+    Modulo:   TrainerBotAppServer.ino
 
         Funciones:
             loop()
@@ -92,24 +92,7 @@ void setup()
  */
 void loop()
 {
-
   AppServer( );
-
-  //  Motor_Test();
-  //Led_Test();
-  //Switch_Test();
-  //Distance_Test() ;
-  //LineSensor_Test( );
-  //Motor_Test();
-
-  //IRSituaTrainer( );
-  //Situacion();
-
-
-  //Redil(  );
-  //Walk_Test();
-  //PARA
-
 }
 
 
